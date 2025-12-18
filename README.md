@@ -1,11 +1,20 @@
 <h1 align="center">Hola 👋 soy Diego Espinoza ✨</h1>
 
 <p align="center">
-  <a><img src="https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white"></a>
-  <a><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a>
-  <a><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white"></a>
-  <a><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"></a>
+  <a href="https://www.tiktok.com/@andrec38464?_r=1&_t=ZM-92KUEWJ8627" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/diego123456/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.facebook.com/andre.espinoza.1690/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white">
+  </a>
+  <a href="mailto:diegoespinoza1405@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white">
+  </a>
 </p>
+
 
 ---
 
@@ -20,12 +29,15 @@
 - 🎓 **Estudiante de Ingeniería en Ciberseguridad**
 - 🛡 Enfocado en **ciberseguridad ofensiva y defensiva**
 - 🔍 Experiencia en pruebas web, análisis de red y laboratorios prácticos
-- 🖥 Manejo de **Kali Linux, Burp Suite, SQLMap, Nmap, Wireshark**
-- 💻 Interés en **desarrollo web backend y automatización**
-- 🚀 Uso de Git, Postman, Docker y trabajo ágil
-- 😎 Buscando crecer como **SOC Analyst y Web Pentester**
-
-📩 Contacto: **diegoespinoza1405@gmail.com**
+- 🖥 Manejo de Kali Linux, Burp Suite, SQLMap, Nmap, Wireshark, FoxyProxy
+- 💻 Interés en desarrollo web backend y automatización
+- 🚀 Uso de Git, Postman, Docker, Scrum y trabajo colaborativo
+- 🌐 Desarrollo web con JavaScript, React y Python
+- 🗄 Bases de datos con MySQL y PostgreSQL (pgAdmin)
+- 🛰 Conocimientos básicos en configuración de redes
+- 🖥 Sistemas operativos: Linux y Windows (nivel básico)
+- 😎 Buscando crecer como SOC Analyst y Web Pentester
+- 📩 Contacto: **diegoespinoza1405@gmail.com**
 
 ---
 
